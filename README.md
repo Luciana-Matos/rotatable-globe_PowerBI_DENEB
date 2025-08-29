@@ -14,6 +14,7 @@ By *Luciana Matos*
 
 ## 📖 About the Project  
 As a Brazilian migrant living in Portugal, I was curious to explore how my experience connects with the broader movement of Brazilians around the world. Using the globe visualization, I wanted to show where Brazilians are living abroad and how widespread this diaspora has become.  
+To do that, I used the original data provided Brazilian Ministry of Foreign Affairs and modified the **Deneb Vega code** (originally by Ying Fu) to display **Brazilian migration data** instead of the original dataset  
 
 ---
 
@@ -33,7 +34,7 @@ The dataset comes from the **Ministério das Relações Exteriores do Brasil (It
 ---
 
 ## 📌 Repository Contents  
-- 📊 Cleaned dataset (Excel)  
-- 💻 Power BI file (`.pbix`)  
+- Cleaned dataset (Excel)  
+- Power BI file (`.pbix`)  
 
 
