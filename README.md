@@ -1,6 +1,6 @@
 # rotatable-globe_PowerBI_DENEB  
 
-## Brazilian Diaspora – Power BI Rotatable Globe 🌍  
+## Brazilian Diaspora 
 
 This project was inspired by the [Workout Wednesday 2025 – Week 4](https://workout-wednesday.com/pbi-2025-w04/) challenge, which featured a rotatable globe visualization built with **Deneb** by Ying Fu. Their original work explored Chinese migration abroad, and I adapted it to tell a story that is personal to me: the **Brazilian diaspora**.  
 
