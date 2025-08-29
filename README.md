@@ -9,6 +9,7 @@ As a Brazilian migrant living in Portugal, I was curious to explore how my exper
 ---
 ## 📽️ Walkthrough Demo
 ▶️ [Watch on YouTube](#) *(https://www.youtube.com/watch?v=MAcJatM9NLo)*
+<img width="712" height="386" alt="Screenshot 2025-08-29 101746" src="https://github.com/user-attachments/assets/fcf9488e-cbdd-4aff-b0b4-773abaa97c05" />
 
 ---
 
@@ -16,8 +17,8 @@ As a Brazilian migrant living in Portugal, I was curious to explore how my exper
 - **Tool:** Power BI  
 - **Year:** 2025  
 - **Author:** *Luciana Matos*  
-- **Dataset Source:** [Ministério das Relações Exteriores do Brasil (2023)] *(https://www.youtube.com/watch?v=MAcJatM9NLo)*
-- **Challenge Reference:** [WOW 2025 Week 4 – Workout Wednesday] *(https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidades-brasileiras-no-exterior-estatisticas-2023))*
+- **Dataset Source:** [Ministério das Relações Exteriores do Brasil (2023](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidades-brasileiras-no-exterior-estatisticas-2023) 
+- **Challenge Reference:** [WOW 2025 Week 4 – Workout Wednesday](https://workout-wednesday.com/)
 ---
 
 ## 📁 Dataset Overview
