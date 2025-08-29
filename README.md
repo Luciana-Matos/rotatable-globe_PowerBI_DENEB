@@ -7,19 +7,17 @@ Their original work explored Chinese migration abroad, and I adapted it to tell 
 As a Brazilian migrant living in Portugal, I was curious to explore how my experience connects with the broader movement of Brazilians around the world. Using the globe visualization, I wanted to show where Brazilians are living abroad and how widespread this diaspora has become.  
 
 ---
+## 📽️ Walkthrough Demo
+▶️ [Watch on YouTube](#) *(https://www.youtube.com/watch?v=MAcJatM9NLo)*
+
+---
 
 ## 💡 Project Details
 - **Tool:** Power BI  
 - **Year:** 2025  
 - **Author:** *Luciana Matos*  
-- **Dataset Source:** Ministério das Relações Exteriores do Brasil (2023)  
-- **Challenge Reference:** WOW 2025 Week 4 – Workout Wednesday  
-
----
-
-## 📽️ Walkthrough Demo
-▶️ [Watch on YouTube](#) *(insert your link here)*
-
+- **Dataset Source:** [Ministério das Relações Exteriores do Brasil (2023)] *(https://www.youtube.com/watch?v=MAcJatM9NLo)*
+- **Challenge Reference:** [WOW 2025 Week 4 – Workout Wednesday] *(https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidades-brasileiras-no-exterior-estatisticas-2023))*
 ---
 
 ## 📁 Dataset Overview
