@@ -1,40 +1,39 @@
-# rotatable-globe_PowerBI_DENEB  
+# 🌍 Brazilian Diaspora
 
-## Brazilian Diaspora 
+## 📖 About the Project
+This project was inspired by the [Workout Wednesday 2025 – Week 4](https://workout-wednesday.com/) challenge, which featured a rotatable globe visualization built with **Deneb** by Ying Fu.  
+Their original work explored Chinese migration abroad, and I adapted it to tell a story that is personal to me: the **Brazilian diaspora**. To do that, I used the original data provided by the Brazilian Ministry of Foreign Affairs and modified the Deneb Vega code to display Brazilian migration data.
 
-This project was inspired by the [Workout Wednesday 2025 – Week 4](https://workout-wednesday.com/pbi-2025-w04/) challenge, which featured a rotatable globe visualization built with **Deneb** by Ying Fu. Their original work explored Chinese migration abroad, and I adapted it to tell a story that is personal to me: the **Brazilian diaspora**.  
-
-**Power BI Project | 2025**  
-By *Luciana Matos*  
-
-- **Dataset Source:** [Ministério das Relações Exteriores do Brasil (2023)](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidades-brasileiras-no-exterior-estatisticas-2023)  
-- **WOW 2025 Week 4 Challenge:** [Workout Wednesday](https://workout-wednesday.com/pbi-2025-w04/)  
-
----
-
-## 📖 About the Project  
 As a Brazilian migrant living in Portugal, I was curious to explore how my experience connects with the broader movement of Brazilians around the world. Using the globe visualization, I wanted to show where Brazilians are living abroad and how widespread this diaspora has become.  
-To do that, I used the original data provided Brazilian Ministry of Foreign Affairs and modified the Deneb Vega code (originally by Ying Fu) to display Brazilian migration data instead of the original dataset  
 
 ---
 
-## 📁 Dataset Overview  
-The dataset comes from the Ministério das Relações Exteriores do Brasil (Itamaraty), published in 2023. The original data was available in PDF format, which I:  
-
-- Cleaned and transformed into Excel  
-- Enriched with approximate geographic coordinates (generated with Microsoft Copilot)  
-- Prepared for visualization in Power BI  
-
----
-
-## 📽️ Walkthrough Demo  
-[▶️ Watch on YouTube](https://youtu.be/MAcJatM9NLo)  
-<img width="975" height="532" alt="image" src="https://github.com/user-attachments/assets/f0921d98-46b3-4e6e-a8d7-85dab5bb0e2e" />
+## 💡 Project Details
+- **Tool:** Power BI  
+- **Year:** 2025  
+- **Author:** *Luciana Matos*  
+- **Dataset Source:** Ministério das Relações Exteriores do Brasil (2023)  
+- **Challenge Reference:** WOW 2025 Week 4 – Workout Wednesday  
 
 ---
 
-## 📌 Repository Contents  
-- Cleaned dataset (Excel)  
-- Power BI file (`.pbix`)  
+## 📽️ Walkthrough Demo
+▶️ [Watch on YouTube](#) *(insert your link here)*
+
+---
+
+## 📁 Dataset Overview
+The dataset comes from the **Ministério das Relações Exteriores do Brasil (Itamaraty)**, published in 2023.  
+
+Steps taken:
+1. Cleaned and transformed the original PDF into Excel  
+2. Enriched the dataset with approximate geographic coordinates (generated with Microsoft Copilot)  
+3. Prepared the final dataset for visualization in Power BI  
+
+---
+
+## 📌 Repository Contents
+- `dataset.xlsx` → Cleaned dataset  
+- `Brazilian_Diaspora.pbix` → Power BI file  
 
 
