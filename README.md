@@ -1,8 +1,7 @@
 # 🌍 Brazilian Diaspora
 
 ## 📖 About the Project
-This project was inspired by the [Workout Wednesday 2025 – Week 4](https://workout-wednesday.com/) challenge, which featured a rotatable globe visualization built with **Deneb** by Ying Fu.  
-While the original work focused on Chinese migration, I adapted it to tell a story that is personal to me: the Brazilian diaspora.
+This project was inspired by the [Workout Wednesday 2025 – Week 4](https://workout-wednesday.com/) challenge, which featured a rotatable globe visualization built with **Deneb** by Ying Fu. While the original work focused on Chinese migration, I adapted it to tell a story that is personal to me: the Brazilian diaspora.
 
 To bring this idea to life, I adapted the Vega code and used migration data published by the Brazilian Ministry of Foreign Affairs (Itamaraty). This data set shows the approximate number of Brazilians living abroad in 2023.
 
