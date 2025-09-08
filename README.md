@@ -2,9 +2,11 @@
 
 ## 📖 About the Project
 This project was inspired by the [Workout Wednesday 2025 – Week 4](https://workout-wednesday.com/) challenge, which featured a rotatable globe visualization built with **Deneb** by Ying Fu.  
-Their original work explored Chinese migration abroad, and I adapted it to tell a story that is personal to me: the **Brazilian diaspora**. To do that, I used the original data provided by the Brazilian Ministry of Foreign Affairs and modified the Deneb Vega code to display Brazilian migration data.
+While the original work focused on Chinese migration, I adapted it to tell a story that is personal to me: the Brazilian diaspora.
 
-As a Brazilian migrant living in Portugal, I was curious to explore how my experience connects with the broader movement of Brazilians around the world. Using the globe visualization, I wanted to show where Brazilians are living abroad and how widespread this diaspora has become.  
+To bring this idea to life, I adapted the Vega code and used migration data published by the Brazilian Ministry of Foreign Affairs (Itamaraty). This data set shows the approximate number of Brazilians living abroad in 2023.
+
+As a Brazilian migrant living in Portugal, I was curious to see how my own journey fits into the larger movement of Brazilians around the world. The rotatable globe felt like the perfect way to explore this story. Unlike a static flat map, the rotatable globe invites the audience to interact, enhancing the experience and allowing more dynamic storytelling. Viewers can shift perspectives, filtering by specific regions, and even rotate to their own country of residence to immediately see the presence of the Brazilian community there.
 
 ---
 ## 📽️ Walkthrough Demo
