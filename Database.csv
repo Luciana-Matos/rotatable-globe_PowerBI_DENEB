@@ -1,0 +1,154 @@
+type,destination_country,migrants,Region,coordinates.1,coordinates.0
+Point,Argentina,101502,South America,-38.417,-63.617
+Point,Bolivia,75700,South America,-16.29,-63.589
+Point,Chile,19500,South America,-35.675,-71.543
+Point,Colombia,13000,South America,4.571,-74.297
+Point,Ecuador,3000,South America,-1.831,-78.183
+Point,Guyana,11921,South America,6.801,-58.155
+Point,French Guiana,92493,South America,3.934,-53.126
+Point,Paraguay,263200,South America,-23.443,-58.443
+Point,Peru,11060,South America,-9.19,-75.015
+Point,Suriname,30000,South America,3.919,-56.027
+Point,Uruguay,31050,South America,-32.522,-55.765
+Point,Venezuela,11500,South America,6.423,-66.589
+Point,Canada,143500,North America,56.13,-106.347
+Point,United States,2085000,North America,37.09,-95.713
+Point,Mexico,32784,North America,23.634,-102.553
+Point,Aruba (Netherlands),220,Central America and Caribbean,12.521,-69.968
+Point,Antigua and Barbuda,2,Central America and Caribbean,17.061,-61.796
+Point,Bahamas,280,Central America and Caribbean,25.034,-77.396
+Point,Barbados,40,Central America and Caribbean,13.194,-59.543
+Point,Belize,40,Central America and Caribbean,17.19,-88.498
+Point,Costa Rica,1800,Central America and Caribbean,9.749,-83.753
+Point,Cuba,200,Central America and Caribbean,21.522,-77.781
+Point,Curaçao (Netherlands),180,Central America and Caribbean,12.226,-69.06
+Point,Dominica,1,Central America and Caribbean,15.415,-61.371
+Point,El Salvador,235,Central America and Caribbean,13.794,-88.896
+Point,Guatemala,500,Central America and Caribbean,15.783,-90.23
+Point,Haiti,42,Central America and Caribbean,18.971,-72.285
+Point,Honduras,350,Central America and Caribbean,15.2,-86.241
+Point,British Virgin Islands (UK),21,Central America and Caribbean,18.421,-64.618
+Point,Jamaica,250,Central America and Caribbean,18.109,-77.297
+Point,Nicaragua,200,Central America and Caribbean,12.865,-85.208
+Point,Panama,3540,Central America and Caribbean,8.538,-80.782
+Point,Dominican Republic,900,Central America and Caribbean,18.736,-70.163
+Point,Saint Lucia,16,Central America and Caribbean,13.909,-60.978
+Point,Saint Kitts and Nevis,1,Central America and Caribbean,17.357,-62.783
+Point,Saint Vincent and the Grenadines,10,Central America and Caribbean,12.984,-61.287
+Point,Trinidad and Tobago,120,Central America and Caribbean,10.691,-61.222
+Point,Albania,100,Europe,41.153,20.168
+Point,Germany,170400,Europe,51.166,10.452
+Point,Armenia,30,Europe,40.069,45.038
+Point,Austria,9000,Europe,47.516,14.55
+Point,Belarus,15,Europe,53.71,27.953
+Point,Belgium,50000,Europe,50.504,4.47
+Point,Bosnia and Herzegovina,100,Europe,43.916,17.679
+Point,Bulgaria,350,Europe,42.734,25.486
+Point,Cyprus,260,Europe,35.126,33.43
+Point,Croatia,400,Europe,45.1,15.2
+Point,Denmark,6042,Europe,56.264,9.502
+Point,Slovakia,316,Europe,48.669,19.699
+Point,Slovenia,223,Europe,46.152,14.995
+Point,Spain,161944,Europe,40.464,-3.749
+Point,Estonia,743,Europe,58.595,25.014
+Point,Finland,2466,Europe,61.924,25.748
+Point,France,95000,Europe,46.228,2.214
+Point,Georgia,30,Europe,42.315,43.357
+Point,Greece,4000,Europe,39.074,21.824
+Point,Hungary,1224,Europe,47.162,19.503
+Point,Ireland,80000,Europe,53.143,-7.692
+Point,Italy,159000,Europe,41.871,12.567
+Point,Lithuania,159,Europe,55.169,23.881
+Point,Luxembourg,10000,Europe,49.817,6.129
+Point,Norway,11398,Europe,60.472,8.468
+Point,Netherlands,80000,Europe,52.132,5.291
+Point,Poland,3000,Europe,51.919,19.146
+Point,Portugal,513000,Europe,39.399,-8.224
+Point,United Kingdom,230000,Europe,55.378,-3.436
+Point,Czech Republic,1027,Europe,49.818,15.473
+Point,Romania,477,Europe,45.943,24.966
+Point,Russia,600,Europe,61.524,105.318
+Point,Serbia,527,Europe,44.016,21.006
+Point,Sweden,20000,Europe,60.128,18.644
+Point,Switzerland,64000,Europe,46.818,8.228
+Point,Turkey,1360,Europe,38.963,35.243
+Point,Ukraine,65,Europe,48.379,31.165
+Point,Vatican,15,Europe,41.902,12.453
+Point,Saudi Arabia,750,Middle East,23.885,45.08
+Point,Bahrain,300,Middle East,25.93,50.638
+Point,Qatar,2000,Middle East,25.276,51.229
+Point,United Arab Emirates,10365,Middle East,23.424,53.848
+Point,Yemen,5,Middle East,15.552,48.516
+Point,Iran,85,Middle East,32.428,53.689
+Point,Iraq,100,Middle East,33.223,43.679
+Point,Israel,14000,Middle East,31.046,34.851
+Point,Jordan,3500,Middle East,30.585,36.238
+Point,Kuwait,280,Middle East,29.311,47.481
+Point,Lebanon,22000,Middle East,33.854,35.862
+Point,Oman,300,Middle East,21.473,55.975
+Point,Palestine,6500,Middle East,31.947,35.227
+Point,Syria,3500,Middle East,34.802,38.997
+Point,South Africa,3600,Africa,-30.559,22.937
+Point,Angola,25000,Africa,-11.203,17.874
+Point,Algeria,73,Africa,28.034,1.66
+Point,Botswana,16,Africa,-22.328,24.685
+Point,Burkina Faso,25,Africa,12.239,-1.562
+Point,Cape Verde,350,Africa,16.002,-24.013
+Point,Cameroon,61,Africa,7.37,12.355
+Point,Chad,20,Africa,15.454,18.732
+Point,Ivory Coast,120,Africa,7.54,-5.547
+Point,Egypt,2500,Africa,26.821,30.802
+Point,Ethiopia,80,Africa,9.145,40.49
+Point,Gabon,79,Africa,-0.804,11.609
+Point,Gambia,10,Africa,13.443,-15.31
+Point,Ghana,150,Africa,7.947,-1.023
+Point,Equatorial Guinea,45,Africa,1.65,10.267
+Point,Guinea-Bissau,350,Africa,11.803,-15.598
+Point,Mauritius,200,Africa,-20.348,57.552
+Point,Lesotho,50,Africa,-29.61,28.233
+Point,Mali,29,Africa,17.571,-3.996
+Point,Morocco,200,Africa,31.791,-7.092
+Point,Mauritania,10,Africa,21.007,-10.941
+Point,Mozambique,3240,Africa,-18.665,35.529
+Point,Namibia,154,Africa,-22.56,17.084
+Point,Nigeria,300,Africa,9.082,8.675
+Point,Kenya,400,Africa,-0.023,37.906
+Point,Central African Republic,20,Africa,6.611,20.939
+Point,Guinea,36,Africa,9.946,-9.696
+Point,Democratic Republic of the Congo,150,Africa,-4.039,21.759
+Point,Republic of the Congo,92,Africa,-0.228,15.828
+Point,São Tomé and Príncipe,136,Africa,0.186,6.613
+Point,Seychelles,5,Africa,-4.679,55.492
+Point,Senegal,190,Africa,14.497,-14.452
+Point,Tanzania,90,Africa,-6.369,34.889
+Point,Togo,40,Africa,8.619,0.824
+Point,Tunisia,55,Africa,33.886,9.537
+Point,Zambia,30,Africa,-13.134,27.849
+Point,Zimbabwe,12,Africa,-19.015,29.154
+Point,Australia,48180,Oceania,-25.274,133.775
+Point,New Zealand,8500,Oceania,-40.9,174.886
+Point,Papua New Guinea,10,Oceania,-6.315,143.955
+Point,Vanuatu,2,Oceania,-15.376,166.959
+Point,Azerbaijan,84,Asia,40.143,47.577
+Point,Bhutan,3,Asia,27.514,90.434
+Point,Cambodia,30,Asia,12.565,104.991
+Point,Kazakhstan,90,Asia,48.019,66.923
+Point,China,9160,Asia,35.862,104.195
+Point,Philippines,650,Asia,12.88,121.774
+Point,India,600,Asia,20.593,78.963
+Point,Indonesia,900,Asia,-0.789,113.921
+Point,Japan,210471,Asia,36.204,138.253
+Point,Laos,20,Asia,19.857,102.495
+Point,Malaysia,500,Asia,4.21,101.975
+Point,Maldives,9,Asia,3.202,73.22
+Point,Mongolia,10,Asia,46.862,103.847
+Point,Myanmar,10,Asia,21.916,95.956
+Point,Nepal,62,Asia,28.395,84.124
+Point,Pakistan,43,Asia,30.375,69.345
+Point,Kyrgyzstan,4,Asia,41.204,74.766
+Point,South Korea,1565,Asia,35.907,127.766
+Point,Singapore,1699,Asia,1.352,103.82
+Point,Sri Lanka,27,Asia,7.873,80.771
+Point,Thailand,600,Asia,15.87,100.993
+Point,Timor-Leste,140,Asia,-8.874,125.728
+Point,Vietnam,550,Asia,14.058,108.277
