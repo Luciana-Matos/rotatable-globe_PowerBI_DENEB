@@ -32,7 +32,7 @@ Steps taken:
 ---
 
 ## 📌 Repository Contents
-- `dataset.xlsx` → Cleaned dataset  
-- `Brazilian_Diaspora.pbix` → Power BI file  
+- `Database.csv` → Cleaned dataset  
+- `Rotatable Globe - Luciana.pbix` → Power BI file  
 
 
